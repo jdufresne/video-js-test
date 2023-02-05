@@ -1,0 +1,8 @@
+{
+  "name": "mytest",
+  "private": true,
+  "dependencies": {
+    "video.js": "*",
+    "typescript": "*"
+  }
+}
